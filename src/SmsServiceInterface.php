@@ -1,7 +1,5 @@
 <?php
-
-namespace App\JsonRpc;
-
+namespace longxiaoyang\smsServiceInterface;
 
 /**
  * Class SmsService
